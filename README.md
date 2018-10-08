@@ -2,7 +2,7 @@
 
 [![Build Status](http://github.dronehippie.de/api/badges/webhippie/go-jenkins/status.svg)](http://github.dronehippie.de/webhippie/go-jenkins)
 [![Stories in Ready](https://badge.waffle.io/webhippie/go-jenkins.svg?label=ready&title=Ready)](http://waffle.io/webhippie/go-jenkins)
-[![Join the Matrix chat at https://matrix.to/#/#webhippie:matrix.org](https://img.shields.io/badge/matrix-%23kleister%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#webhippie:matrix.org)
+[![Join the Matrix chat at https://matrix.to/#/#webhippie:matrix.org](https://img.shields.io/badge/matrix-%23webhippie%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#webhippie:matrix.org)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1755ee7dc16f4073a99841a26a5cf9b6)](https://www.codacy.com/app/webhippie/go-jenkins?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=webhippie/go-jenkins&amp;utm_campaign=Badge_Grade)
 [![Go Doc](https://godoc.org/github.com/webhippie/go-jenkins?status.svg)](http://godoc.org/github.com/webhippie/go-jenkins)
 [![Go Report](http://goreportcard.com/badge/github.com/webhippie/go-jenkins)](http://goreportcard.com/report/github.com/webhippie/go-jenkins)
